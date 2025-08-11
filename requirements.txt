@@ -1,0 +1,7 @@
+requests
+google-api-python-client
+pymupdf
+python-docx
+ebooklib
+markdownify
+python-dotenv
